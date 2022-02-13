@@ -1,2 +1,2 @@
-# 16-Bit-Consoles-CPU-Benchmark
+# 16-Bit-Consoles-CPU-Benchmarks
 Source code.
